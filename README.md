@@ -4,7 +4,7 @@ Project-Proposals
 For my data projects, I propose juicing, exotic pet vet visit and rollercoasters and water rides.
 
 <h2>Juicing NYC</h2>
-Celebrity-endorsed juicing has taken New York by the storm, since New York Times announced "The Juice-Bar Brawl" in April 2013, Organic Avenue has increased its locations from nine to ten and Juice Press has increased its locations from nine to 19. 
+Celebrity-endorsed juicing has taken New York by the storm, since New York Times announced <a href="http://www.nytimes.com/2013/04/17/dining/the-rush-toward-cold-pressed-juices.html?pagewanted=all&_r=2&">The Juice-Bar Brawl"</a>" in April 2013, Organic Avenue has increased its locations from nine to ten and Juice Press has increased its locations from nine to 19. 
 
 In addition to what has been reported, I am interested to find out the following:
 1.	Where are juice bars located in New York? Is there a particular borough where juice bars concentrate? 
