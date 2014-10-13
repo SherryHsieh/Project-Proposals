@@ -4,7 +4,7 @@ Project-Proposals
 For my data projects, I propose juicing, exotic pet vet visit and rollercoasters and water rides.
 
 <h2>Juicing NYC</h2>
-Celebrity-endorsed juicing has taken New York by the storm, since New York Times announced <a href="http://www.nytimes.com/2013/04/17/dining/the-rush-toward-cold-pressed-juices.html?pagewanted=all&_r=2&">The Juice-Bar Brawl"</a>" in April 2013, Organic Avenue has increased its locations from nine to ten and Juice Press has increased its locations from nine to 19. 
+Celebrity-endorsed juicing has taken New York by the storm, since New York Times announced <a href="http://www.nytimes.com/2013/04/17/dining/the-rush-toward-cold-pressed-juices.html?pagewanted=all&_r=2&">The Juice-Bar Brawl</a>" in April 2013, Organic Avenue has increased its locations from nine to ten and Juice Press has increased its locations from nine to 19. 
 
 In addition to what has been reported, I am interested to find out the following:
 1.	Where are juice bars located in New York? Is there a particular borough where juice bars concentrate? 
@@ -23,7 +23,7 @@ There are a number of places I can see this infographic be showcased, like Wired
 
 
 <h2>Exotic Pets</h2>
-According to the Bureau of Labor Statistics, the average veterinarian salaries for job postings in New York in 2013 are $92,000, which is 17% higher than average veterinarian salaries for job postings nationwide.  With growing demands in pet care-related services – estimated to reach $58.51 billion in 2014 (in 2013, actual spending in pet industry expenditures reached $55.72 billion), I would like to explore the under-reported world of exotic pet care in New York by concentrating on New York-based clinics with “Avian & Exotic Pet Care” unit. Using data gathered from MyVeterinarian.com, facilities that I will reach out to include Animal Medical Center, Center for Avian and Exotic Medicine, St. Marks Veterinary Hospital and The Humane Society of New York, to name a few. 
+According to the Bureau of Labor Statistics, the average veterinarian salaries for job postings in New York in 2013 are $92,000, which is 17% higher than average veterinarian salaries for job postings nationwide.  With growing demands in pet care-related services – estimated to reach $58.51 billion in 2014 (<a href="http://www.americanpetproducts.org/press_industrytrends.asp">in 2013, actual spending in pet industry expenditures reached $55.72 billion</a>), I would like to explore the under-reported world of exotic pet care in New York by concentrating on New York-based clinics with “Avian & Exotic Pet Care” unit. Using data gathered from MyVeterinarian.com, facilities that I will reach out to include Animal Medical Center, Center for Avian and Exotic Medicine, St. Marks Veterinary Hospital and The Humane Society of New York, to name a few. 
 
 New York has outlawed owning exotic pets state-wide, so exotic pets will be limited to birds, guinea pigs, turtle, reptiles, rodents and others.
 
