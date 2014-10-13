@@ -45,7 +45,7 @@ I see my work getting picked up by Huffington Post, Buzzfeed and the Cut (sites 
 <h2>Rollercoasters & Water Rides</h2> 
 When it comes to rollercoasters and water parks, my home state California boast of Ranging Waters, Six Flags and Disneyland, to name a few. I would like to plot amusement parks – limiting them to large amusement parks, theme parks and water parks, in the United States. Theme parks come with characters and usually have a “theme,” like Disney; in contrast, amusement parks focus more on its rides, sporting higher, faster and crazier rollercoasters.  
 
-Using IAAPA directory (International Association of Amusement Parks and Attractions) I will scrap data for parks in each state and sort the information in Excel. I will also be compiling information about the top five tallest, fastest and longest rollercoasters. 
+Using <a href="http://www.iaapa.org/find-an-attraction">IAAPA directory</a> (International Association of Amusement Parks and Attractions) I will scrap data for parks in each state and sort the information in Excel. I will also be compiling information about the top five tallest, fastest and longest rollercoasters. 
 
 Amusement parks exist to meet demands. I think the end result will reveal a lot about each state. For example, Alaska has no amusement parks or theme parks or water parks (makes sense, considering its climate) and Alabama, out of six parks that fit my criteria, has five water parks.  
 
