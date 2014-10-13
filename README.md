@@ -3,7 +3,7 @@ Project-Proposals
 
 For my data projects, I propose juicing, exotic pet vet visit and rollercoasters and water rides.
 
-Juicing NYC
+<h2>Juicing NYC</h2>
 Celebrity-endorsed juicing has taken New York by the storm, since New York Times announced "The Juice-Bar Brawl" in April 2013, Organic Avenue has increased its locations from nine to ten and Juice Press has increased its locations from nine to 19. 
 
 In addition to what has been reported, I am interested to find out the following:
@@ -22,7 +22,7 @@ To get the necessary data, I will have to scrap and clean up shop location addre
 There are a number of places I can see this infographic be showcased, like Wired, Modern Farmer and New York Magazine. 
 
 
-Exotic Pets
+<h2>Exotic Pets</h2>
 According to the Bureau of Labor Statistics, the average veterinarian salaries for job postings in New York in 2013 are $92,000, which is 17% higher than average veterinarian salaries for job postings nationwide.  With growing demands in pet care-related services – estimated to reach $58.51 billion in 2014 (in 2013, actual spending in pet industry expenditures reached $55.72 billion), I would like to explore the under-reported world of exotic pet care in New York by concentrating on New York-based clinics with “Avian & Exotic Pet Care” unit. Using data gathered from MyVeterinarian.com, facilities that I will reach out to include Animal Medical Center, Center for Avian and Exotic Medicine, St. Marks Veterinary Hospital and The Humane Society of New York, to name a few. 
 
 New York has outlawed owning exotic pets state-wide, so exotic pets will be limited to birds, guinea pigs, turtle, reptiles, rodents and others.
@@ -42,7 +42,7 @@ To accomplish my project I will have to contact individual facilities to get the
 I see my work getting picked up by Huffington Post, Buzzfeed and the Cut (sites that aggregate and emphasize on social traffics). 
 
  
-Rollercoasters & Water Rides 
+<h2>Rollercoasters & Water Rides</h2> 
 When it comes to rollercoasters and water parks, my home state California boast of Ranging Waters, Six Flags and Disneyland, to name a few. I would like to plot amusement parks – limiting them to large amusement parks, theme parks and water parks, in the United States. Theme parks come with characters and usually have a “theme,” like Disney; in contrast, amusement parks focus more on its rides, sporting higher, faster and crazier rollercoasters.  
 
 Using IAAPA directory (International Association of Amusement Parks and Attractions) I will scrap data for parks in each state and sort the information in Excel. I will also be compiling information about the top five tallest, fastest and longest rollercoasters. 
